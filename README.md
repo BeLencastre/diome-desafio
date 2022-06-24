@@ -1,2 +1,2 @@
-# diome-desafio
-Desafio de Projeto da dio.me sobre Git/Github
+# Desafio de Projeto
+### Módulo I - Git/Github
